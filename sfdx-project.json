@@ -1,0 +1,29 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "definitionFile": "config/project-scratch-def.json",
+      "dependencies": [
+        {
+          "package": "04t1U0000058cL3QAI"
+        },
+        {
+          "package": "04t5G000003RUjoQAG"
+        }
+      ],
+      "package": "Traction Rec Contract Field Merge",
+      "versionDescription": "Dynamic contract and form content in Traction Rec"
+    }
+  ],
+  "name": "TractionRecContractFieldMerge",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "62.0",
+  "packageAliases": {
+    "Traction Rec Contract Field Merge": "0HoUX00000000kn0AA",
+    "Traction Rec Contract Field Merge@0.1.0-1": "04tUX000000d4q9YAA"
+  }
+}
